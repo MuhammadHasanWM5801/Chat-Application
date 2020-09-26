@@ -1,0 +1,11 @@
+.c1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.test:after {
+    content: '\2807';
+    font-size: 3em;
+    color: #2e2e2e;
+    
+  }
